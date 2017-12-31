@@ -17,7 +17,7 @@ import java.util.Date;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-public class PeopleDirectoryWebfluxApplicationTests {
+public class CompanyTests {
 
 	@Autowired
 	private WebTestClient webTestClient;
